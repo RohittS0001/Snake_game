@@ -72,7 +72,7 @@ MIT License - Feel free to use in your projects!
 ---
 
 **Made with ❤️ by [RohittS0001](https://github.com/RohittS0001)**  
-**Learning Git + Python Game Development**
+**Learning Git + Python **
 ```
 
 **Copy-paste this entire block** into your `README.md` file on GitHub! 🎉
