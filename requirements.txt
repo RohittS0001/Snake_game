@@ -1,0 +1,4 @@
+# No external dependencies required; this project uses Python standard library `turtle`.
+# If you add packages, list them here, e.g.:
+# pygame==2.1.3
+
