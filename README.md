@@ -1,25 +1,38 @@
-# Snake_game
+# Snake Game
 
-Simple snake game using Python's turtle module.
+A small desktop Snake game built with Python's built-in turtle module.
 
-## Run locally
+## Quick start (Windows PowerShell)
 
-1. Create and activate a virtual environment (optional but recommended):
+1. Open PowerShell and change to the project folder:
 
-```powershell
-python -m venv venv
-.\venv\Scripts\Activate
-```
+   ```powershell
+   cd "C:\Users\Rohit\PycharmProjects\Snake_Game"
+   ```
 
-2. Install dependencies (none required beyond standard library for this project). If you add libraries, list them in `requirements.txt`.
+2. (Optional) Create and activate a virtual environment:
 
-3. Run:
+   ```powershell
+   python -m venv venv
+   .\venv\Scripts\Activate
+   ```
 
-```powershell
-python main.py
-```
+3. Run the game:
 
-Controls: arrow keys (Up, Down, Left, Right)
+   ```powershell
+   python main.py
+   ```
 
-Notes: This is a desktop GUI app using `turtle` and must be run on a machine with a display (not a static GitHub Pages site).
+## Controls
+
+Use the arrow keys (Up, Down, Left, Right) to control the snake.
+
+## Notes
+
+- This is a desktop GUI app (uses `turtle`), so run it on your computer — it will not run on GitHub Pages.
+- No external packages are required.
+
+## License
+
+MIT
 
